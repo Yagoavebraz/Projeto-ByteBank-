@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\bin\Debug\net6.0\Inicio 07.exe
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\bin\Debug\net6.0\Inicio 07.deps.json
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\bin\Debug\net6.0\Inicio 07.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\bin\Debug\net6.0\Inicio 07.dll
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\bin\Debug\net6.0\Inicio 07.pdb
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.dll
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\refint\Inicio 07.dll
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.pdb
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\Inicio 07.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Programação\Inicio\Inicio 07\obj\Debug\net6.0\ref\Inicio 07.dll
